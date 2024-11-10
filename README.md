@@ -1,1 +1,1 @@
-# JobPlatform-Filter-A-B-Test-project
+# JobPlatform-Filter-A/B-Test-project
