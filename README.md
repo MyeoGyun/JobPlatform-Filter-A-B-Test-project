@@ -63,5 +63,19 @@
 	•	분석 결과를 통해 사용자 경험 및 전환율 개선 가능성 확인
 	•	추가 실험 아이디어로 필터 순서 변경, 세부 분류 재조정, 항목 정렬 등을 제안
 
+- 대조군(좌), 실험군(우)
+
 ![image.jpg1](https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df) |![image.jpg2](https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05)
 --- | --- | 
+
+
+
+## 5. 후속과제
+
+- A/B 테스트 결과가 유의미할 경우, 검색 필터 UI 추가 변경
+
+### 필터의 순서 변경
+- 사용자의 필터 사용률이 고려되어있지 않아, 사용자의 필터별 사용률과 지원서 제출률을 고려한 필터 순서 재배치를 통해 고객 경험 개선
+- 필터 기능을 더욱 빠르게 선택함으로써 지원서 제출률이 개선될 것으로 기대
+
+![필터 순서 변경안](https://github.com/user-attachments/assets/92aa4581-d5ed-47f8-a96c-0f3fa236907a)
