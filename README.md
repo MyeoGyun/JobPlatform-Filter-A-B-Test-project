@@ -63,10 +63,5 @@
 	•	분석 결과를 통해 사용자 경험 및 전환율 개선 가능성 확인
 	•	추가 실험 아이디어로 필터 순서 변경, 세부 분류 재조정, 항목 정렬 등을 제안
 
-![image.jpg1](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7289/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg) |![image.jpg2](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7293/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg)
+![image.jpg1](https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df) |![image.jpg2]([https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7293/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg](https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05))
 --- | --- | 
-<figure class="half">  
-	<a href="link"><img src="https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df"></a>  
-	<a href="link"><img src="https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05"></a>  
-	<figcaption>A/B 테스트 대조군(좌)과 실험군(우)
-</figcaption></figure>
