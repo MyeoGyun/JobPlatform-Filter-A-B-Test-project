@@ -49,22 +49,22 @@
 
 ### 테스트 설계
 
-	•	가설: UI 변경 시 “채용 공고 조회 → 지원서 제출” 전환율 증가.
+	•	가설: UI 변경 시 “채용 공고 조회 → 지원서 제출” 전환율 증가
 	•	실험 설계:
-		•	대조군(A안): 기존 드롭다운 형식.
-		•	실험군(B안): 중앙 스프레드 형식.
-		•	2024년 1월 1일부터 2월 5일까지 36일간 테스트 진행.
+		- 대조군(A안): 기존 드롭다운 형식
+		- 실험군(B안): 중앙 스프레드 형식
+		- 2024년 1월 1일부터 2월 5일까지 36일간 테스트 진행
 	•	성과 판단 기준:
-		•	주요 지표: 지원서 제출 전환율.
-		•	보조 지표: 필터 사용률.
+		- 주요 지표: 지원서 제출 전환율
+		- 보조 지표: 필터 사용률
 
-3. 주요 결과
+## 4. 주요 결과
 
-	•	분석 결과를 통해 사용자 경험 및 전환율 개선 가능성 확인.
-	•	추가 실험 아이디어로 필터 순서 변경, 세부 분류 재조정, 항목 정렬 등을 제안.
+	•	분석 결과를 통해 사용자 경험 및 전환율 개선 가능성 확인
+	•	추가 실험 아이디어로 필터 순서 변경, 세부 분류 재조정, 항목 정렬 등을 제안
 
 
 <figure class="half">  
-	<a href="link"><img src="![스크린샷 2024-11-21 오전 11 27 19](https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df)"></a>  
-	<a href="link"><img src="![스크린샷 2024-11-21 오전 11 27 59](https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05)"></a>  
-<figcaption>A/B 테스트 대조군과 실험군</figcaption></figure>
+	<a href="link"><img src="https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df"></a>  
+	<a href="link"><img src="https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05"></a>  
+<figcaption>A/B 테스트 대조군(좌)과 실험군(우)</figcaption></figure>
