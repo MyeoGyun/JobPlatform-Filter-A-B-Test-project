@@ -68,4 +68,3 @@
 	<a href="link"><img src="![스크린샷 2024-11-21 오전 11 27 19](https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df)"></a>  
 	<a href="link"><img src="![스크린샷 2024-11-21 오전 11 27 59](https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05)"></a>  
 <figcaption>A/B 테스트 대조군과 실험군</figcaption></figure>
-출처: https://0soo.tistory.com/227 [Lifealong:티스토리]
