@@ -65,6 +65,5 @@
 
 
 <figure class="half">  
-	<a href="link"><img src="https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df"></a>  
-	<a href="link"><img src="https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05"></a>  
+	<a href="link"><img src="https://github.com/user-attachments/assets/fb50ca2d-964b-40bf-8607-ff801da7f5df"></a>  <a href="link"><img src="https://github.com/user-attachments/assets/fb2bdcd1-8a19-4b7d-99f1-e0fd1c38bd05"></a>  
 <figcaption>A/B 테스트 대조군(좌)과 실험군(우)</figcaption></figure>
